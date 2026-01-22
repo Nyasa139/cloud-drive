@@ -57,7 +57,3 @@ Users can securely upload, manage, organize, and share files with authentication
 - 🗄️ Supabase (PostgreSQL)
 - ☁️ Supabase Storage
 
----
-
-## 🏗️ System Architecture
-
